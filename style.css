@@ -71,7 +71,7 @@ body {
 .clouds {
   position: absolute;
   width: 700px;
-  margin-top: 50px;
+  margin-top: 20px;
   animation: clouds-animation 8s linear infinite;
 }
 
